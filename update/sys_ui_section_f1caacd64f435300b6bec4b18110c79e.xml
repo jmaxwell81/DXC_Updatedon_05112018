@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Primory" section_id="f1caacd64f435300b6bec4b18110c79e" sys_domain="global" table="x_58872_needit_uvcore_server" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>36a3b42d4f6ceb00b6bec4b18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reference</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>b6a3b42d4f6ceb00b6bec4b18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hostname_lc</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>3aa3b42d4f6ceb00b6bec4b18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>siteid</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>baa3b42d4f6ceb00b6bec4b18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>deploystartdatetime</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>3ea3b42d4f6ceb00b6bec4b18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hardwarepreset</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>bea3b42d4f6ceb00b6bec4b18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>billingcode</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>32a3b42d4f6ceb00b6bec4b18110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>powerstate</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>b2a3b42d4f6ceb00b6bec4b18110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>36a3b42d4f6ceb00b6bec4b18110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subscriptionname</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>b6a3b42d4f6ceb00b6bec4b18110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vmdatacenter</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>3aa3b42d4f6ceb00b6bec4b18110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>baa3b42d4f6ceb00b6bec4b18110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>function</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>3ea3b42d4f6ceb00b6bec4b18110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hostenvironment</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>bea3b42d4f6ceb00b6bec4b18110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hostname_fqdn</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>32a3b42d4f6ceb00b6bec4b18110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>osdisplayname</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>b2a3b42d4f6ceb00b6bec4b18110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vmid</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>36a3b42d4f6ceb00b6bec4b18110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>b6a3b42d4f6ceb00b6bec4b18110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_request_id</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>3aa3b42d4f6ceb00b6bec4b18110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subscriptionid</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>baa3b42d4f6ceb00b6bec4b18110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vmnsxsectag1</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>3ea3b42d4f6ceb00b6bec4b18110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vmnsxsectag2</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>bea3b42d4f6ceb00b6bec4b18110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vmnsxsectag3</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>32a3b42d4f6ceb00b6bec4b18110c787</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vmnsxsectag4</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>b2a3b42d4f6ceb00b6bec4b18110c787</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>associatedlb</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 10:44:10</sys_created_on>
+            <sys_id>36a3b42d4f6ceb00b6bec4b18110c787</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 10:44:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subscriptiondescription</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-22 10:56:25</sys_created_on>
+            <sys_id>e0e260f1dbd523001dde0181ca961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primory" display_value="Primory" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">f1caacd64f435300b6bec4b18110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-22 10:56:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Primory</caption>
+            <header>false</header>
+            <name>x_58872_needit_uvcore_server</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 04:26:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1caacd64f435300b6bec4b18110c79e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Primory</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_f1caacd64f435300b6bec4b18110c79e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-29 13:22:48</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
